@@ -288,7 +288,7 @@
 				CODE_SIGN_ENTITLEMENTS = Intro_to_SpriteKit/Intro_to_SpriteKit.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = U2ZN2W2UQJ;
+				DEVELOPMENT_TEAM = Y7BG8G7UEB;
 				INFOPLIST_FILE = Intro_to_SpriteKit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ca.on.lcs.Intro-to-SpriteKit";
@@ -304,7 +304,7 @@
 				CODE_SIGN_ENTITLEMENTS = Intro_to_SpriteKit/Intro_to_SpriteKit.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = U2ZN2W2UQJ;
+				DEVELOPMENT_TEAM = Y7BG8G7UEB;
 				INFOPLIST_FILE = Intro_to_SpriteKit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ca.on.lcs.Intro-to-SpriteKit";
